@@ -1,4 +1,4 @@
-# 📈 Automated Zerodha Portfolio Tracker
+# 📈 Personal Portfolio ETL Pipeline
 
 This project automates the process of retrieving daily Zerodha (Kite API) portfolio holdings, saving them as structured CSV files in OneDrive, and refreshing a live Power BI dashboard using Power Automate. It’s designed to streamline investment monitoring without any manual effort.
 
