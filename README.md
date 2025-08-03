@@ -31,7 +31,7 @@ This project automates the process of retrieving daily Zerodha (Kite API) portfo
 ```
 Zerodha-Portfolio-Tracker/
 ├── scripts/
-│   └── fetch_holdings.py
+│   └── portfolio.py
 ├── dashboards/
 │   └── portfolio_dashboard.pbix
 ├── reports/
@@ -50,7 +50,7 @@ Zerodha-Portfolio-Tracker/
   ```bash
   pip install kiteconnect pandas
   ```
-- Edit `fetch_holdings.py` with your:
+- Edit `portfolio.py` with your:
   - `api_key` and `api_secret`
   - Set your OneDrive file path (e.g., `/Users/yourname/OneDrive/Portfolio/`)
 - Run the script daily (manually or via Task Scheduler)
@@ -94,7 +94,7 @@ Zerodha-Portfolio-Tracker/
 ## 📌 Author
 
 **Pranjal Jain**  
-[LinkedIn](https://www.linkedin.com/) • [Email](mailto:pranjalpjain5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pranjal-jain0/) • [Email](mailto:pranjalpjain5@gmail.com)
 
 ---
 
